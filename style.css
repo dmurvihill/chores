@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.table-container {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0.15in;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  vertical-align: bottom;
+  height: .40in;
+  width: .50in;
+}
+
+td {
+  text-align: center;
+  vertical-align: center;
+  border: 1px solid black;
+  width: 0.50in;
+  height: 0.50in;
+  font-size: 10pt;
+}
+
+td.dan {
+  background-color: #f4c842;
+}
+
+td.dolan {
+  background: #b3d9ff;
+}
+
+td.shilpa {
+  background-color: #e0b3ff;
+}
+
+td.break {
+  background-color: #cccccc;
+}
